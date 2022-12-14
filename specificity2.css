@@ -1,0 +1,8 @@
+div#container ul.my-songs li{
+    color:brown;
+    background:yellow;
+}
+div#container ul.my-song li.favourite{
+    color:yellow;
+    background:brown;
+}
